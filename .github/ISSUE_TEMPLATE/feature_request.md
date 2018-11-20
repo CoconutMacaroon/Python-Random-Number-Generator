@@ -1,7 +1,7 @@
 **Describe the proposed feature**  
 A description of what would be in the proposed feature.
 
-**Reason**
+**Reason**  
 Describe how this will improve the project.  
   
 **Plan**  
