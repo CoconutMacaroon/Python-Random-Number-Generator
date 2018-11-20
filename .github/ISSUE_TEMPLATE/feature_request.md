@@ -1,10 +1,4 @@
----
-name: Feature request
-about: Suggest an idea for this project
-
----
-
-**Describe the proposed feature**
+**Describe the proposed feature**  
 A description of what would be in the proposed feature.
 
 **Reason**
